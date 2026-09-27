@@ -55,6 +55,6 @@ int main()
         root=insert(root,value);
     }
 
-    printf("\n Inorder Traversal:");
+    printf("\n Preorder Traversal:");
     preorder(root);
 }
