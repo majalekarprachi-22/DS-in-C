@@ -6,7 +6,7 @@ int main()
     int found = -1;
     int arr[100];
     
-    printf("Enter the number of element");
+    printf("Enter the number");
     scanf("%d", &n);
     printf("Enter the elements");
     for (i = 0; i < n; i++)
